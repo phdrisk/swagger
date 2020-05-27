@@ -1,5 +1,6 @@
 # swagger
 Instalação e Funcionamento
 
-# >> A API ESTA EM phdrisk.com/vxx/API/vx
-# >> SWAGGER esta em www.phdrisk.com/API/SWAGGER/vx
+# >> API => phdrisk.com/vxx/API/vx
+# >> SWAGGER => http:// www.phdrisk.com/API/SWAGGER/vx
+# >> JWT => https://www.phdrisk.com/util/JWT/index.php
